@@ -1,13 +1,14 @@
 {
   "name": "ecom-webapp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A sample Node.js e-commerce web app hosted on Azure",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"No tests yet\" && exit 0"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shivani Yadav",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
